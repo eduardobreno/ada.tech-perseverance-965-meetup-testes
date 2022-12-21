@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should press button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "borderColor": "#000000",
+      "borderWidth": 1,
+      "opacity": 1,
+      "paddingHorizontal": 25,
+      "paddingVertical": 10,
+    }
+  }
+  testID=""
+>
+  <Text>
+    Adicionar
+  </Text>
+</View>
+`;
